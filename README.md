@@ -134,11 +134,7 @@ Use the model to test a given video file.
 1. Run the command-line App 
 `python detect_deepfake_app.py --input_videofile <path to video file> --method <detection method>`. Detection method can be `plain_frames` or `MRI`
 
-## How to cite our research!
-```
-Pratikkumar Prajapati and Chris Pollett, MRI-GAN: A Generalized Approach to Detect DeepFakes using Perceptual Image Assessment. arXiv preprint arXiv:2203.00108 (2022)
-```
-or
+
 ```
 @misc{2203.00108,
 Author = {Pratikkumar Prajapati and Chris Pollett},
